@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "wp4503398-guardians-of-the-galaxy-vol-3-wallpapers.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "wp4503398-guardians-of-the-galaxy-vol-3-wallpapers 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "wp4503398-guardians-of-the-galaxy-vol-3-wallpapers 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
